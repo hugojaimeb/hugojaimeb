@@ -1,33 +1,29 @@
-# **Hello, I'm HUGO JAIME**
+# Hugo Jaime
+[GitHub](https://github.com/hugojaimeb) | [Portfolio](https://hugojaime-portafolio.web.app/)
 
-## **I'm Full-Stack Developer** I create amazing Web sites and web apps for people around the world 🚀 Based in **Colombia**, I'm an Industrial Engieenier and a technology fan, some day a friend pushed me to start coding and then I couldn't stop. 👨🏾‍💻
+## About Me
+Hey there! I'm Hugo Jaime, a passionate software developer with over 3 years of experience. I specialize in web development using React, Node.js, and Angular, but I'm always eager to learn new technologies and expand my skill set. 💻
 
-## _When i'm not coding, i'm playing Video games🎮 or Rugby🏉_
+## Skills
+- Front-end: React, Angular, JavaScript, HTML, CSS, Bootstrap
+- Back-end: Node.js, Express.js, MongoDB, SQL
+- Tools: Git, GitHub, Visual Studio Code, Postman
 
-## **Languages and Tools:**
+## Experience
+I have worked on various projects, ranging from small-scale applications to large enterprise solutions. Here are a few notable ones:
 
-**1. JavaScript**
+- **OlaPlex Colombia**: Developed a full-stack e-commerce platform using React, Node.js, and MongoDB. Implemented features such as user authentication, product listing, shopping cart, and payment integration.
 
-**2. HTML5**
+- **Box-Companion**: Collaborated on a team to build a real-time chat application using Angular, Node.js, and Socket.IO. Implemented chat rooms, message encryption, and user notifications.
 
-**3. CSS3**
+## Education
+- Bachelor's Degree in Industrial Engineering, UPB
 
-**4. React**
+## Certifications
+- React Developer Certification, Codeacademy
+- Node.js Fundamentals, CodeAcademy
 
-**5. Node.js**
+## Interests and Hobbies
+Apart from coding, I enjoy exploring new technologies, attending tech conferences, and contributing to open-source projects. In my free time, you can find me hiking, playing guitar, or experimenting with new recipes in the kitchen. 🚀
 
-**Ejercicio 1**
-
-| Shortcuts | Description                                   |
-| --------- | --------------------------------------------- |
-| cd        | change directory                              |
-| ls        | list of files                                 |
-| pwd       | print working directory                       |
-| clear     | clear all terminal                            |
-| npx       | initial node                                  |
-| npm       | install frameworks or tools in a local server |
-
-<!---
-hugojaimeb/hugojaimeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out to me through GitHub or my portfolio. I'm always open to new opportunities and collaborations. Let's connect and create something amazing
