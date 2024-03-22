@@ -2,7 +2,7 @@
 [GitHub](https://github.com/hugojaimeb) | [Portfolio](https://hugojaime-portafolio.web.app/)
 
 ## About Me
-Hey there! I'm Hugo Jaime, a passionate software developer with over 3 years of experience. I specialize in web development using React, Node.js, and Angular, but I'm always eager to learn new technologies and expand my skill set. 💻
+Hey there! I'm Hugo Jaime, a passionate software developer with over 5 years of experience. I specialize in web development using React, Node.js, and Angular, but I'm always eager to learn new technologies and expand my skill set. 💻
 
 ## Skills
 - Front-end: React, Angular, JavaScript, HTML, CSS, Bootstrap
