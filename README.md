@@ -2,19 +2,16 @@
 [GitHub](https://github.com/hugojaimeb) | [Portfolio](https://hugojaime-portafolio.web.app/)
 
 ## About Me
-Hey there! I'm Hugo Jaime, a passionate software developer with over 5 years of experience. I specialize in web development using React, Node.js, and Angular, but I'm always eager to learn new technologies and expand my skill set. 💻
+Hey there! I'm Hugo Jaime, a passionate software developer with over 7 years of experience. I specialize in web development using React, Node.js, and Angular, but I'm always eager to learn new technologies and expand my skill set. 💻
 
 ## Skills
 - Front-end: React, Angular, JavaScript, HTML, CSS, Bootstrap
-- Back-end: Node.js, Express.js, MongoDB, SQL
+- Back-end: Node.js, Express.js, MongoDB, SQL, .NET
 - Tools: Git, GitHub, Visual Studio Code, Postman
 
 ## Experience
 I have worked on various projects, ranging from small-scale applications to large enterprise solutions. Here are a few notable ones:
 
-- **OlaPlex Colombia**: Developed a full-stack e-commerce platform using React, Node.js, and MongoDB. Implemented features such as user authentication, product listing, shopping cart, and payment integration.
-
-- **Box-Companion**: Collaborated on a team to build a real-time chat application using Angular, Node.js, and Socket.IO. Implemented chat rooms, message encryption, and user notifications.
 
 ## Education
 - Bachelor's Degree in Industrial Engineering, UPB
